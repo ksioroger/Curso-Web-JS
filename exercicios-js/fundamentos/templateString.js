@@ -14,4 +14,4 @@ console.log(`1 + 1 = ${1+1}`)
 
 //Arrow function
 const up = texto => texto.toUpperCase()
-console.log(`Ei... ${up('cuidado')}`);
+console.log(`Ei... ${up('cuidado')}`)
