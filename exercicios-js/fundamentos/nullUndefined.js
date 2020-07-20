@@ -24,4 +24,4 @@ produto.preço = null        //sem preço
                             uma atribuição de -1 para definir como um preço nulo, já que o zero geralmente
                             se usa para definir o preço de algo gratuito */
 console.log(!!produto.preco)    //exemplo de uma forma de testar se um preço foi setado
-console.log(produto)
+console.log(produto)        
